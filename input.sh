@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Enter your name: "
+echo -n "Enter your name: "
 read NAME
-echo "Enter your age: "
+echo -n "Enter your age: "
 read AGE
 
 echo Hello $NAME!
